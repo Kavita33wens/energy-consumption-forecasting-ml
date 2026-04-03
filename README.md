@@ -26,4 +26,4 @@ This project predicts energy consumption using machine learning techniques.
 ## ▶️ How to Run
 ```bash
 pip install -r requirements.txt
-python src/main.py
+python main.py
